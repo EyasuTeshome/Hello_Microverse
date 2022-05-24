@@ -3,8 +3,8 @@
 # Project Name
 Hello Microverse
 
-> Description the project.
-In this project, we have setuo "Hello_Microverse" repository. The goal of this repository is to understand how linter helps with HTML and CSS, how to use the .gitignore inorder to avoid unwanted files from being visible in our git repository. I have explained below what we used to accomplish this task.
+
+In this project, we setuped "Hello_Microverse" repository. The goal of this repository is to understand how linter helps with HTML and CSS, how to use the .gitignore inorder to avoid unwanted files from being visible in our git repository. I have explained below what we used to accomplish this task.
 
 ## Built With
 
@@ -19,7 +19,7 @@ In this project, we have setuo "Hello_Microverse" repository. The goal of this r
 
 ## Getting Started
 
-The first step is to create a github repository, after that clone the repository. After cloning the repository add readme, .gitignore and linter-config files. 
+The first step is to create a github repository, after that clone the repository. After cloning the repository add readme, .gitignore and linter-config files. Next, add HTML and CSS files to check if linter is working and add test.md file to check if .gitignore file is working.
 
 
 
@@ -27,9 +27,9 @@ The first step is to create a github repository, after that clone the repository
 
 👤 Eyasu Teshome
 
-- GitHub: [@githubhandle](https://github.com/EyasuTeshome)
-- Twitter: [@twitterhandle](https://twitter.com/EyasuTeshome)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/EyasuTeshome)
+- GitHub: [@EyasuTeshome](https://github.com/EyasuTeshome)
+- Twitter: [@EyasuTeshome](https://twitter.com/EyasuTeshome)
+- LinkedIn: [Eyasu Teshome](https://linkedin.com/in/EyasuTeshome)
 
 
 ## 🤝 Contributing
@@ -50,4 +50,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is not licensed.
