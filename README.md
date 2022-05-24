@@ -19,29 +19,13 @@ In this project, we have setuo "Hello_Microverse" repository. The goal of this r
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+The first step is to create a github repository, after that clone the repository. After cloning the repository add readme, .gitignore and linter-config files. 
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 Eyasu Teshome
 
 - GitHub: [@githubhandle](https://github.com/EyasuTeshome)
 - Twitter: [@twitterhandle](https://twitter.com/EyasuTeshome)
